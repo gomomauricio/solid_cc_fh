@@ -1,6 +1,6 @@
 # Código del curso Principios SOLID y Clean Code
 # Instructor
-> [Daniel Blanco Calviño](https://www.udemy.com/course/principios-solid-y-clean-code-escribe-codigo-de-calidad/) 
+> [Fernando Herrera](https://www.udemy.com/course/solid-clean/) 
  
 
 # Udemy
@@ -8,16 +8,15 @@
 
 ## Contiene
 
-* Clean Code.
-* Test Driven Development (TDD), el Desarrollo Guiado por Pruebas.
-* Code Smells.
-* Principios SOLID
-* Aplicar los cinco principios SOLID.
+* Aprender a escribir un código limpio.
+* Aprender sobre la deuda técnica.
+* Prevención de la deuda técnica.
+* 6 Codesmells principales.
+* Principios SOLID.
  
 
 ## Descripción
-Repositorio de recursos:
- https://github.com/danielblanco96/CleanCode-SOLID-Udemy     
+   
 
 ---
 
@@ -34,28 +33,12 @@ Repositorio de recursos:
 
 
 ~~~
-* Repositorio solo en ** Gitlab  **
-
-/************* MAVEN ***********************/
- 
- *  
-
-
----
-## Código 
-
-`//desarrollo` 
- `public int suma( int x, int y ) { return x + y; }` 
-
- `//test` 
-`@Test`
-`public int suma( int x, int y ) {  assertEquals(2, ( x + y ) ); }`
-
+* Repositorio solo en ** Github  **
 
  
 
 ---
 #### Version  V.0.1 
-* **V.0.1**  _>>>_  Iniciando proyecto [  on 18 FEB, 2022 ]  
+* **V.0.1**  _>>>_  Iniciando proyecto [  on 01 AGO, 2023 ]  
  
  

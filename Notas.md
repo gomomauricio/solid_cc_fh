@@ -17,3 +17,10 @@
 * Los sistemas mas flexibles son aquellos que dependen de abstracciones, y no de concreciones.
 * En java, un modulo debe depender de inteerfaces y de clases abstractas, y no de implementaciones volatiles.
 
+
+
+
+
+
+
+
