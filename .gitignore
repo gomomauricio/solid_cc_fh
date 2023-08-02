@@ -17,7 +17,8 @@ mvnw.cmd
 *.zip
 *.png
 *.jpg
-
+/clean-course-main/
+/clean-course-main/*
 
 
 */CleanCode-SOLID-Udemy-main/

@@ -30,7 +30,8 @@
 * No usar mas de dos lenguajes en una misma clase.
 
 
-
+> [Herramientas](https://gist.github.com/Klerith/5bd148b2e16325752219b68995ddf91b) 
+> [Codigo](https://github.com/Klerith/clean-course/tree/main) 
 
 ~~~
 * Repositorio solo en ** Github  **
