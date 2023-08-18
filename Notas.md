@@ -21,6 +21,7 @@
 
 
 
-
+# DEUDA TECNICA
+  * Falta de calidad en el codigo, proceso, documentacion o pruebas. Se paga con una refactorizacion.
 
 

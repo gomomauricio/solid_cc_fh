@@ -11,6 +11,17 @@ Ctrl + –: Lo contrario al anterior, reduciremos el tamaño de la letra.
 Ctrl + B: Abriremos o cerraremos el menú lateral izquierdo.
 Alt + Z: En caso de que nuestro código sea más extenso que la anchura de la pantalla, este atajo nos permite romper la línea y así utiliza únicamente el ancho de nuestra pantalla.
 F11: Activa/desactiva la pantalla completa.
+
+Windows: [CTRL] + K (Vscode queda a la espera). Después pulsa [CTRL] + C para comentar y [CTRL] + U para descomentar.
+
+ [SHIFT] + [SUPR]. Borrar linea actual
+
+ [ALT] + [Flecha arriba/abajo] mover un bloque 
+
+ [CTRL] + L   seleccionar linea actual
+
+ [CTRL] + K (Visual Studio Code queda a la espera). [CTRL] + S  --mostrar atajos de teclado
+
 Gestión de archivos con VS Code
 Para gestionar los archivos con mayor agilidad, podemos hacer uso de los siguientes atajos:
 
