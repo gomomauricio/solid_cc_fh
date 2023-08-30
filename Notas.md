@@ -24,4 +24,6 @@
 # DEUDA TECNICA
   * Falta de calidad en el codigo, proceso, documentacion o pruebas. Se paga con una refactorizacion.
 
+## Codigo del curso
+> [Git](https://raw.githubusercontent.com/Klerith/clean-course) 
 
